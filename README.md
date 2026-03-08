@@ -125,10 +125,10 @@ The project includes several visualizations:
 
 ## Project Structure
 Mutual-Fund-Analysis
-│
-├── Mutual_Fund_Analysis.ipynb
-├── stock_dataset.csv
-└── README.md
+│  
+├── Mutual_Fund_Investment_Plan_Analysis.ipynb
+├── stock_dataset.csv  
+└── README.md  
 
 
 ---
