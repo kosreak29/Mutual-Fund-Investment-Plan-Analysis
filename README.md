@@ -140,7 +140,8 @@ This project demonstrates how **data analysis techniques can be used to design a
 By combining **ROI analysis, risk measurement, and portfolio allocation**, investors can make more informed investment decisions and optimize long-term returns.
 
 ---
-Aman Kosre  
-Data Analyst  
-
 ⭐ If you like this project, feel free to star the repository.
+
+## 👨‍💻 Author
+**Aman K**  
+Data Analyst
